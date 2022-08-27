@@ -4,7 +4,7 @@ import { Fontisto } from "@expo/vector-icons";
 import { Ionicons } from "@expo/vector-icons";
 import { FontAwesome } from "@expo/vector-icons";
 import { Video } from "expo-av";
-
+//fffpvnovnodfnoondndndndvnvnuviuvnsv
 export default function BigSubject({ route, navigation }) {
   const video = React.useRef(null);
   return (
